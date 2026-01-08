@@ -195,5 +195,3 @@ relatorio_PBI
 **Email**: suamirochati@gmail.com
 
 [**LinkedIn**](https://www.linkedin.com/in/surocham/)
-# segmentacao_clientes_ml_pwbi
-# segmentacao_clientes_ml_pwbi
