@@ -189,6 +189,10 @@ relatorio_PBI
 - **Satisfação do cliente**: +15%
 
 
+
+<img src="assets/dashboard.png/">
+
+
 ## 📧 Contato
 
 **Autor**: Suami Medeiros  
